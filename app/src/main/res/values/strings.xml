@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sameera-displaysocial-kotlin</string>
+    <string name="home">Home</string>
+    <string name="camera">Camera</string>
+    <string name="search">Search</string>
+    <string name="ok">Ok</string>
+    <string name="enterName">Please enter your Name</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="hello">Hello</string>
+    <string name="no_result_found">No result found</string>
+    <string name="type_here_to_search_here">Type here to search here</string>
+</resources>
